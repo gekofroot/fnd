@@ -1,6 +1,5 @@
 ## Description
-Colour with colours.
+Find more, type less.
 
 ## Requirements
-- Python 3.6+
-- pygame
+- seek
