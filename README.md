@@ -7,5 +7,6 @@ Type less, find more.
 ## Options
   -c Execute command.
   <br>
+  <br>
   -f Find first instance.
   <br>
