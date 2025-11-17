@@ -5,7 +5,7 @@ Type less, find more.
 - seek
 
 ## Options
-  -c Execute command.
+  -c    Execute command.
   <br>
-  -f Find first instance.
+  -f    Find first instance.
   <br>
