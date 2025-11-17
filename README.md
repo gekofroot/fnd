@@ -8,6 +8,5 @@ Type less, find more.
 <pre>
   -c    Execute command.
   
-  -f    Find first instance.
-  
+  -f    Find first instance.  
 </pre>
