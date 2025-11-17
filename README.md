@@ -1,5 +1,5 @@
 ## Description
-Find more, type less.
+Type less, find more.
 
 ## Requirements
 - seek
